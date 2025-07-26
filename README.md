@@ -91,4 +91,4 @@ To dive into the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/3amory99/Customer-Churn-Data-Analytics-Data-Pipeline.git
+   git clone https://github.com/MAanas078/Customer-Churn-Data-Analytics-Data-Pipeline.git
